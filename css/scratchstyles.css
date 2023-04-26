@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    font-size: 22px;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-feature-settings: "abvs";
+    list-style-position: inside;
+    text-align: left;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20px
+}
+.common{
+    text-align:center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header{
+    height: 100px;
+    background-color: cadetblue;
+    color: whitesmoke;
+    line-height: 50px;
+}
+.mainbody{
+    background-color: whitesmoke;
+    right: 5px;
+    left: 5px
+}
+.footer{
+    height: 25px;
+    font-size: 12px;
+    padding-top: 15px; 
+    background-color: cadetblue;
+    color: pink;
+    bottom: opx;
+    right: 5px; 
+    left: 5px;
+    position: fixed;
+}
+p{
+    font-weight: bold;
+}
+img{
+    display: block;
+    width: 75%;
+}
+#top{
+    text-decoration: dashed;
+}
